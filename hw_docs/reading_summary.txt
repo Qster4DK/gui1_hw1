@@ -1,9 +1,0 @@
-Starting with the front-end roadmap, people who are working in front-end are known as front-end developers, front-end engineers, front-end web developers, JavaScript Developers,
-HTML/CSS Developer, front-end web engineers, and front-end web architects. Each position has similar work and requires many of the same front-end development skills.
-But there are differences in the levels of experience and expertise in the different front end development skills.
-The main two languages that are important to learn for front-end development are HTML and CSS. Getting a head start on those two languages will allow the mastery of them early on.
-The earlier the better. When beginning to use HTML and CSS, creating simple projects will help learn the basics of those languages. After HTML and CSS, learning JavaScript,
-Git, and GitHub will help get an entry level front-end development position. Front-end developers also make a good amount of money since the average salary is around $80k a year.
-In the full stack developer reading, full stack development combines both front-end and back-end aspects of web application development.
-A full stack developer can work on any layer of a software application, including the user interface, the user experience, the server, database, and server-side logic.
-Knowing every layer of developing a software application allows full stack developers to create projects independently or part of a team.
