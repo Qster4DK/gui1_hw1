@@ -1,0 +1,98 @@
+  /* Making background color and spacing look right */
+  body {
+    margin-left: 0px;
+    background-color:gray;
+    margin-bottom: 70px;
+  }
+
+  /* Making headers look flashy */
+  h1 {
+    font-style: italic;
+    font-size: 80px;
+    margin-top: 80px;
+    margin-bottom: 40px;
+  }
+  
+   /* Setting headers to proper size */
+  h2 {
+    font-size: 30px;
+    margin-bottom: 15px;
+  }
+  
+  /* Making h3 look spaced right */
+  h3 {
+    margin-top: 50px;
+    font-size: 30px;
+  }
+
+  /* Fixing paragraph spacing and visuals for legibility */
+  p {
+    text-align: left;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 30px;
+    margin-right: 30%;
+    margin-left: 30%;
+  }
+
+  /* Making all text look similar throughout the website*/
+  h1, h2, h3, p, figcaption, a {
+    font-family: Impact, sans-serif;
+    text-align: center;
+  }
+
+  /* Making recipe list more legible with left text align and larger margins */
+
+  ul {
+    font-size: 18px;
+    font-family: sans-serif;
+    text-align: left;
+    margin-left: 500px;
+    margin-right: 500px;
+    line-height: 25px;
+  }
+
+  /* Centering table */
+  
+  table {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  img {
+    display: block;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+  }
+
+  /* Using captions to make it clear what recipe each photo corresponds to. Making them legible but not stand out too much */
+
+  figcaption {
+    font-style: italic;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 100px;
+  }
+
+  a {
+    font-size: 25px;
+    margin-top: 60px;
+    padding: 100px;
+  }
+
+  /* Making clickable main page button look better colorwise */
+
+  a {
+    color: black;
+  }
+
+  a:hover {
+    color: maroon;
+  }
+
+  a:active {
+    color: brown;
+  }
